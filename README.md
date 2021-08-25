@@ -1,1 +1,1 @@
--[DEMO-LINK]https://serhii-web.github.io/my-app()
+-https://serhii-web.github.io/my-app
